@@ -1,0 +1,24 @@
+html, body, .todo {
+    margin: 0;
+    padding: 0;
+}
+
+.todo {
+    list-style-type: none;
+}
+
+.todo__input, .todo__item {
+    margin: 10px;
+}
+
+.todo__item--done {
+    text-decoration: line-through;
+}
+
+#addTodo {
+    margin-left: 10px;
+}
+
+.hidden{
+    display: none;
+}
