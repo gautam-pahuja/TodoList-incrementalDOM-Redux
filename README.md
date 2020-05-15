@@ -1,5 +1,12 @@
 A simple ToDo list using IncrementalDOM
 
+### Saves users todo items
+
+### Uses Redux for state management
+
+### Uses incremental-dom
+
+
 ```sh
 npm install
 ```
@@ -18,9 +25,3 @@ npm start
 
 Once you've compiled the bundle, you can open the `index.html` in your browser
 and check out the application.
-
-### Saves users todo items
-
-### Uses Redux for state management
-
-### Uses incremental-dom
