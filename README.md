@@ -1,11 +1,12 @@
 A simple ToDo list using IncrementalDOM
 
-### Saves users todo items
+- Saves users todo items
 
-### Uses Redux for state management
+- Uses Redux for state management
 
-### Uses incremental-dom
+- Uses incremental-dom
 
+### To build
 
 ```sh
 npm install
